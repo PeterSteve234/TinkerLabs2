@@ -39,7 +39,7 @@ Um agregador de promoções de jogos e animes com design cartoon/anime vibrante.
 
 ### Opção 1: Rodar Online (Recomendado)
 
-Acesse: [TinkerLabs Online](https://seu-dominio.com)
+
 
 ### Opção 2: Rodar Localmente
 
