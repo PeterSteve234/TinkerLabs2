@@ -225,9 +225,9 @@ MIT License - veja [LICENSE](./LICENSE) para detalhes
 
 ## 💬 Suporte
 
-- 📧 Email: seu-email@example.com
-- 🐛 Issues: [GitHub Issues](https://github.com/seu-usuario/tinkerlabs/issues)
-- 💬 Discussões: [GitHub Discussions](https://github.com/seu-usuario/tinkerlabs/discussions)
+- 📧 Email: pedroestevesnt@gmail.com
+- 🐛 Issues: [GitHub Issues](https://github.com/PeterSteve234/tinkerlabs/issues)
+- 💬 Discussões: [GitHub Discussions](https://github.com/PeterSteve234/tinkerlabs/discussions)
 
 ---
 
