@@ -46,7 +46,7 @@ Um agregador de promoções de jogos e animes com design cartoon/anime vibrante.
 ```bash
 # Clone o repositório
 git clone https://github.com/seu-usuario/tinkerlabs.git
-cd tinkerlabs
+cd tinkerlabs2
 
 # Instale dependências
 pnpm install
